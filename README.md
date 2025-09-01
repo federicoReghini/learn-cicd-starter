@@ -1,4 +1,4 @@
-https://github.com/federicoReghini/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
+![Bedge image](https://github.com/federicoReghini/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
